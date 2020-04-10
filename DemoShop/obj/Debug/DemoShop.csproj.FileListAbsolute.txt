@@ -1,0 +1,12 @@
+C:\Users\domix\source\repos\DemoShop\DemoShop\bin\Debug\DemoShop.exe.config
+C:\Users\domix\source\repos\DemoShop\DemoShop\bin\Debug\DemoShop.exe
+C:\Users\domix\source\repos\DemoShop\DemoShop\bin\Debug\DemoShop.pdb
+C:\Users\domix\source\repos\DemoShop\DemoShop\obj\Debug\DemoShop.csprojAssemblyReference.cache
+C:\Users\domix\source\repos\DemoShop\DemoShop\obj\Debug\DemoShop.DemoShop.resources
+C:\Users\domix\source\repos\DemoShop\DemoShop\obj\Debug\DemoShop.Properties.Resources.resources
+C:\Users\domix\source\repos\DemoShop\DemoShop\obj\Debug\DemoShop.csproj.GenerateResource.cache
+C:\Users\domix\source\repos\DemoShop\DemoShop\obj\Debug\DemoShop.exe
+C:\Users\domix\source\repos\DemoShop\DemoShop\obj\Debug\DemoShop.pdb
+C:\Users\domix\source\repos\DemoShop\DemoShop\bin\Debug\ShopLibrary.dll
+C:\Users\domix\source\repos\DemoShop\DemoShop\bin\Debug\ShopLibrary.pdb
+C:\Users\domix\source\repos\DemoShop\DemoShop\obj\Debug\DemoShop.csproj.CopyComplete

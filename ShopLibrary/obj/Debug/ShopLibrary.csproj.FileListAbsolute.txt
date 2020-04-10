@@ -1,0 +1,5 @@
+C:\Users\domix\source\repos\DemoShop\ShopLibrary\bin\Debug\ShopLibrary.dll
+C:\Users\domix\source\repos\DemoShop\ShopLibrary\bin\Debug\ShopLibrary.pdb
+C:\Users\domix\source\repos\DemoShop\ShopLibrary\obj\Debug\ShopLibrary.csprojAssemblyReference.cache
+C:\Users\domix\source\repos\DemoShop\ShopLibrary\obj\Debug\ShopLibrary.dll
+C:\Users\domix\source\repos\DemoShop\ShopLibrary\obj\Debug\ShopLibrary.pdb
